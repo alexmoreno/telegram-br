@@ -17,6 +17,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### PYTHON
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
 - [GRUPY-DF](https://telegram.me/grupydf)
+- [PYCODING](https://telegram.me/PyCoding)
 
 ### JAVASCRIPT
 - [JS BRASIL](https://web.telegram.org/#/im?p=@javascriptbrasill)
@@ -123,6 +124,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PARCEIRO DOS CÓDIGOS](https://telegram.me/joinchat/CEMxwATo7yv6NW2y7CCGtw )
 - [EMPREENDEDORISMO TI](https://telegram.me/joinchat/AI7jrT4ZFk94UZco3ymVsQ )
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
+- [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
 
 ## CANAIS
 - [IMASTERS](https://telegram.me/imasters ())
@@ -132,6 +134,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PASSAGENS AÉREAS](https://telegram.me/promopassagens)
 - [PROMOÇÕES](https://telegram.me/on_sale)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
+
+## BOTS 
+- [HACKER NEWS BOT](http://telegram.me/hnbot)
 
 ## Mas cadê meu grupo?
 Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qúe muita taxonomia mais dificulta do que atrapalha.
