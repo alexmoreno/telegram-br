@@ -48,6 +48,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
+- [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
 
 ### DELPHI
 - [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
