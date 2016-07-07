@@ -33,6 +33,10 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 
+### Hybrid Mobile
+- [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
+
+
 ### LINUX
 - [FEDORA BR](https://telegram.me/fedorabr)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
