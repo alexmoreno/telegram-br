@@ -10,6 +10,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ## GRUPOS
 ### PHP
 - [PHP BRASIL](https://telegram.me/phpbrasil)
+- [PHP Curitiba](https://telegram.me/phpcuritiba)
 - [CAKEPHP BR](https://telegram.me/cakephpbr)
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
