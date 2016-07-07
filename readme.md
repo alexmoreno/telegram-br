@@ -12,6 +12,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PHP BRASIL](https://telegram.me/phpbrasil)
 - [PHP Curitiba](https://telegram.me/phpcuritiba)
 - [CAKEPHP BR](https://telegram.me/cakephpbr)
+- [SILEX ](http://telegram.me/silexbrasil)
+- [SYMFONY](http://telegram.me/symfonybrasil)
+- [LARAVEL](http://telegram.me/laravelbr)
+- [YII](http://telegram.me/yiibrasil)
+- [CODEIGNITER](http://telegram.me/codeigniterbr)
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
 
@@ -56,6 +61,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [JOOMLA BRASIL](https://telegram.me/joomlabrasil)
 - [FREESWITCH BRASIL](https://telegram.me/freeswitchbrasil)
 - [GLPI BRASIL](https://telegram.me/glpibr )
+- [MAGENTO](http://telegram.me/magentobr)
 
 
 ### TELECOMUNICAÇÃO
@@ -143,5 +149,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qúe muita taxonomia mais dificulta do que atrapalha.
 
 ## Meus obrigados vão para...
+- [@favianohonorato](https://github.com/flavianohonorato/grupos-sobre-php-no-telegram)
 - [@somatório](http://www.somatorio.org/2015/11/07/links-de-grupos-de-ti-no-telegram/)
 - [Edgar](https://medium.com/telegram-brasil/telegram-inova-mais-uma-vez-conhe%C3%A7a-os-canais-c900c97ff018#.r88885k8y)
