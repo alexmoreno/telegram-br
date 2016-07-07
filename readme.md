@@ -31,7 +31,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
-
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 
 ### LINUX
