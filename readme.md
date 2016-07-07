@@ -26,9 +26,12 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PYCODING](https://telegram.me/PyCoding)
 
 ### JAVASCRIPT
-- [JS BRASIL](https://web.telegram.org/#/im?p=@javascriptbrasill)
+
+- [JS BRASIL](hhttps://telegram.me/javascriptbrasil)
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [NODEBR](https://telegram.me/NodeBR)
+- [NODEBR](https://telegram.me/NodeBR)
+- [Node.js BRASIL](https://telegram.me/NodejsBR)
 
 ### LINUX
 - [FEDORA BR](https://telegram.me/fedorabr)
