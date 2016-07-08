@@ -36,6 +36,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### Hybrid Mobile
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
 
+### Cordova
+- [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
+
 
 ### LINUX
 - [FEDORA BR](https://telegram.me/fedorabr)
@@ -149,6 +152,10 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PASSAGENS AÉREAS](https://telegram.me/promopassagens)
 - [PROMOÇÕES](https://telegram.me/on_sale)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
+- [GUIA DO FRONTEND](https://telegram.me/guiadofrontend)
+
+## IOT
+- [IOT BRASIL](https://telegram.me/iotbrasil)
 
 ## BOTS 
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
