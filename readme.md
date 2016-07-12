@@ -33,12 +33,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 
-### Hybrid Mobile
+### HYBRID MOBILE
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
-
-### Cordova
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
-
 
 ### LINUX
 - [FEDORA BR](https://telegram.me/fedorabr)
