@@ -120,6 +120,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### DATABASE
 - [DBA BRASIL](https://telegram.me/joinchat/BSo6ET1rO4Ba2eSOHyMhGg)
+- [MONGODB BRASIL](https://telegram.me/mongodbbrasil)
 
 ### EMAIL
 - [ZIMBRASIL](https://telegram.me/zimBrasil)
