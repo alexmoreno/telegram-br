@@ -141,6 +141,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [EMPREENDEDORISMO TI](https://telegram.me/joinchat/AI7jrT4ZFk94UZco3ymVsQ )
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
+- [GRUPO DE UX ](https://telegram.me/uxbrasil)
 
 ## CANAIS
 - [IMASTERS](https://telegram.me/imasters ())
