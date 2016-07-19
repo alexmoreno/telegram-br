@@ -116,6 +116,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 
+### FREEBSD
+- [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
+
 ### SEGURANÇA
 - [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
 - [ENTERPRISE SECURITY](https://telegram.me/enterprisesecurity)
