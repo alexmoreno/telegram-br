@@ -8,6 +8,9 @@ E se eu te contar que tem milhares de usuários falando daquelas esquisitices de
 Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei alguns antros de esqusitice e a lista segue abaixo.
 
 ## GRUPOS
+### Linguagens de Programação
+- [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
+
 ### PHP
 - [PHP BRASIL](https://telegram.me/phpbrasil)
 - [PHP Curitiba](https://telegram.me/phpcuritiba)
@@ -38,6 +41,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
 
 ### LINUX
+- [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [FEDORA BR](https://telegram.me/fedorabr)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
 - [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
