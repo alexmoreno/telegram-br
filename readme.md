@@ -23,6 +23,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
 - [PHP RIO](https://telegram.me/phprio)
+- [ZENDFRAMEWORK](https://telegram.me/ZendFramework)
+- [DRUPAL BRASIL](https://telegram.me/drupalbrasil)
 
 ### PYTHON
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
@@ -40,6 +42,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### HYBRID MOBILE
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
+
+### GO
+- [GO BR](https://telegram.me/go_br)
 
 ### LINUX
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
@@ -117,6 +122,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 
+### TESTES
+-[GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
+
 ### FREEBSD
 - [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
 
@@ -150,6 +158,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
 - [GRUPO DE UX ](https://telegram.me/uxbrasil)
+- [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
 
 ## CANAIS
 - [IMASTERS](https://telegram.me/imasters ())
@@ -160,6 +169,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PROMOÇÕES](https://telegram.me/on_sale)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
 - [GUIA DO FRONTEND](https://telegram.me/guiadofrontend)
+- [PACKTPUB](https://telegram.me/packtpub)
 
 ## IOT
 - [IOT BRASIL](https://telegram.me/iotbrasil)
