@@ -123,7 +123,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 
 ### TESTES
--[GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
+- [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
 
 ### FREEBSD
 - [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
