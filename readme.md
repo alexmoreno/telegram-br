@@ -141,6 +141,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
 
 ### OUTROS 
+- [EDUCAÇÃO E TECNOLOGIA (https://telegram.me/educacao_e_tecnologia)
 - [OPERAÇÃO PEGA LEÃO (ebay)](https://telegram.me/OperacaoPegaLeao )
 - [BITCOIN BRASIL](https://telegram.me/brasilbitcoin )
 - [LATEX BR](https://telegram.me/latexbr )
