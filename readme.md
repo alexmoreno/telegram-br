@@ -22,6 +22,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [CODEIGNITER](http://telegram.me/codeigniterbr)
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
+- [PHP RIO](https://telegram.me/phprio)
 
 ### PYTHON
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
