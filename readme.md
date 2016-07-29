@@ -170,7 +170,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PROMOÇÕES](https://telegram.me/on_sale)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
 - [GUIA DO FRONTEND](https://telegram.me/guiadofrontend)
-- [PACKTPUB](https://telegram.me/packtpub)
+- [PACKTPUB (dica do @romulomourao)](https://telegram.me/FreePacktPubDaily) 
+- [PACKTPUB2](https://telegram.me/packtpub)
+
 
 ## IOT
 - [IOT BRASIL](https://telegram.me/iotbrasil)
