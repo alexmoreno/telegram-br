@@ -10,6 +10,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ## GRUPOS
 ### Linguagens de Programação
 - [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
+- [Programação Funcional Brasil](https://telegram.me/ProgramacaoFuncionalBrasil)
 
 ### PHP
 - [PHP BRASIL](https://telegram.me/phpbrasil)
@@ -38,6 +39,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
+- [Be MEAN](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)
 
 ### HYBRID MOBILE
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
@@ -61,6 +63,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
+- [FULLSTACK DEVELOPERS BRASIL](https://telegram.me/fullstackdevelopers)
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
 
@@ -179,6 +182,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ## BOTS 
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
+- [Be MEAN BOT](http://telegram.me/bemean_oficialbot)
 
 ## Mas cadê meu grupo?
 Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qúe muita taxonomia mais dificulta do que atrapalha.
