@@ -73,6 +73,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### C
 - [C'USERS (PROGRAMAÇÃO EM C)](https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A)
 
+### REACT.JS
+- [React.Js](https://telegram.me/reactjs_br)
+
 ### PLATAFORMAS
 - [OPENCART BRASIL](https://telegram.me/opencartbrasil)
 - [JOOMLA RJ](https://telegram.me/joomlariodejaneiro)
