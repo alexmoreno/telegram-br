@@ -58,11 +58,13 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+- [DEVCODEBR LINUX/PYTHON](https://telegram.me/devcodebr_linux)
 
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
+- [DEVCODEBR WEB](https://telegram.me/devcodebr_web)
 
 ### DELPHI
 - [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
@@ -161,6 +163,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [EMPREENDEDORISMO TI](https://telegram.me/joinchat/AI7jrT4ZFk94UZco3ymVsQ )
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
+- [DEVCODEBR DESIGN](https://telegram.me/devcodebr_design)
 - [GRUPO DE UX ](https://telegram.me/uxbrasil)
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
 
