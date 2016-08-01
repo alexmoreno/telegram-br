@@ -38,6 +38,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
+- [Electron BR](https://telegram.me/electronJs_BR)
 
 ### HYBRID MOBILE
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
@@ -176,6 +177,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PACKTPUB (dica do @romulomourao)](https://telegram.me/FreePacktPubDaily) 
 - [PACKTPUB2](https://telegram.me/packtpub)
 - [Receitas e Cia](https://telegram.me/comidaecia)
+- [Mundo JS](https://telegram.me/mundoJS)
+- [Hacking News](https://telegram.me/hack_news)
 
 
 ## IOT
