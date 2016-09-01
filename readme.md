@@ -48,6 +48,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GO BR](https://telegram.me/go_br)
 
 ### LINUX
+- [BACULA/BAREOS-BR](https://telegram.me/baculabr)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [FEDORA BR](https://telegram.me/fedorabr)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
@@ -59,6 +60,12 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+
+
+### WINDOWS
+- [POWERSHELL BR](https://telegram.me/powershellbr)
+- [EXCEL BR](https://telegram.me/excelbr)
+
 
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
