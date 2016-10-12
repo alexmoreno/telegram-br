@@ -47,6 +47,10 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### GO
 - [GO BR](https://telegram.me/go_br)
 
+### Elixir
+- [Elixir Brasil](https://telegram.me/elixirbr)
+- [Phoenix Brasil](https://telegram.me/phoenix_br)
+
 ### LINUX
 - [BACULA/BAREOS-BR](https://telegram.me/baculabr)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
@@ -71,6 +75,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
+- [Programação Funcional Brasil](https://telegram.me/ProgramacaoFuncionalBrasil)
 
 ### DELPHI
 - [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
