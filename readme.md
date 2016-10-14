@@ -5,7 +5,7 @@ Criou seu telegram e se sente sozinho? Tá chateado? Não tem amigos? Não tem c
 
 E se eu te contar que tem milhares de usuários falando daquelas esquisitices de computador em vários cantos da internet e você tá de fora? Rapaz, como pode?
 
-Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei alguns antros de esqusitice e a lista segue abaixo.
+Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei alguns antros de esquisitice e a lista segue abaixo.
 
 ## GRUPOS
 ### Linguagens de Programação
