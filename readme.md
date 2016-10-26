@@ -202,7 +202,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
 
 ## Mas cadê meu grupo?
-Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qúe muita taxonomia mais dificulta do que atrapalha.
+Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qee muita taxonomia mais dificulta do que ajuda.
 
 ## Meus obrigados vão para...
 - [@favianohonorato](https://github.com/flavianohonorato/grupos-sobre-php-no-telegram)
