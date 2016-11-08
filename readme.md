@@ -52,6 +52,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Elixir Brasil](https://telegram.me/elixirbr)
 - [Phoenix Brasil](https://telegram.me/phoenix_br)
 
+## Elm
+- [Elm Brasil](https://telegram.me/elmbrasil)
+
 ### LINUX
 - [BACULA/BAREOS-BR](https://telegram.me/baculabr)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
