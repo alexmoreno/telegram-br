@@ -153,6 +153,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
 
 ### SEGURANÇA
+- [HACKING BRASIL](https://telegram.me/hackingbrasil)
 - [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
 - [ENTERPRISE SECURITY](https://telegram.me/enterprisesecurity)
 - [FORTINET BRASIL](https://telegram.me/fortinetbr)
