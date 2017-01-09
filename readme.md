@@ -58,23 +58,23 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### LINUX
 - [BACULA/BAREOS-BR](https://telegram.me/baculabr)
-- [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
-- [FEDORA BR](https://telegram.me/fedorabr)
+- [BRASIL LINUX](https://telegram.me/brasillinux)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
 - [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
-- [DEBIAN BR](https://telegram.me/debianbr)
-- [BRASIL LINUX](https://telegram.me/brasillinux)
-- [SHELLSCRIPT BR](https://telegram.me/shellbr)
-- [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
-- [SAMBA4 BR](https://telegram.me/Samba4BR)
+- [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
-- [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
-
-
+- [SAMBA4 BR](https://telegram.me/Samba4BR)
+- [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
+- [SHELLSCRIPT BR](https://telegram.me/shellbr)
+- **DISTRIBUICOES LINUX**
+  - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+  - [DEBIAN BR](https://telegram.me/debianbr)
+  - [FEDORA BR](https://telegram.me/fedorabr)
+  - [openSUSE BR](https://telegram.me/opensusebr)
+  
 ### WINDOWS
 - [POWERSHELL BR](https://telegram.me/powershellbr)
 - [EXCEL BR](https://telegram.me/excelbr)
-
 
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
