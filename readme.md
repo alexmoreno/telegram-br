@@ -31,6 +31,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [PYCODING](https://telegram.me/PyCoding)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+- [GruPyPR](https://telegram.me/grupy_pr)
 
 ### JAVASCRIPT
 
