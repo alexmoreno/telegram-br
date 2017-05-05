@@ -47,6 +47,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
 - [NATIVESCRIPT BR](https://telegram.me/nativescriptbr)
+- [QUASAR FRAMEWORK](https://t.me/quasarframeworkbrasil)
 
 ### GO
 - [GO BR](https://telegram.me/go_br)
