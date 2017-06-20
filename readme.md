@@ -33,6 +33,13 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PYCODING](https://telegram.me/PyCoding)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 - [GruPyPR](https://telegram.me/grupy_pr)
+- [PyBr Roda de Conversa](https://t.me/pythonbr)
+- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
+- [PyKivy BR](https://t.me/pykivy)
+
+### JAVA
+- [JAVA PT](https://t.me/javaofficial_pt)
+- [DevCodeBr Android/Java](https://t.me/devcodebr_android)
 
 ### JAVASCRIPT
 
@@ -74,6 +81,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [openSUSE BR](https://telegram.me/opensusebr)
+  - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
   
 ### WINDOWS
 - [POWERSHELL BR](https://telegram.me/powershellbr)
@@ -171,6 +179,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### GIT
 - [GITLAB USERS BR](https://telegram.me/joinchat/AejjFQf2XJYdTFmrCfLBsg )
+- [GIT BRASIL](https://t.me/GitBrasil)
 
 ### JOBS
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
@@ -188,6 +197,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
 - [GRUPO DE UX ](https://telegram.me/uxbrasil)
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
+- [PROGRAMEIROS](https://t.me/joinchat/AAAAAD-xLVoEzIPEWBM2Fw)
+- [API Builders BR](https://t.me/apiBuilders)
 
 ## CANAIS
 - [IMASTERS](https://telegram.me/imasters ())
@@ -203,6 +214,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Receitas e Cia](https://telegram.me/comidaecia)
 - [Mundo JS](https://telegram.me/mundoJS)
 - [Hacking News](https://telegram.me/hack_news)
+- [TI em Depressão](https://t.me/TI_em_Depressao)
+- [Guia Dev Fullstack](https://t.me/devfullstack)
 
 
 ## IOT
