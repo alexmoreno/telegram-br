@@ -156,6 +156,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ELASTIC USERS BR](https://telegram.me/joinchat/AejjFQCHmDHk7796cRQXYA%20(OFF))
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
+- [Tecnologia Cisco BR](https://t.me/tecnologiaciscobr)
 
 ### TESTES
 - [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
@@ -216,6 +217,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Hacking News](https://telegram.me/hack_news)
 - [TI em Depressão](https://t.me/TI_em_Depressao)
 - [Guia Dev Fullstack](https://t.me/devfullstack)
+- [Cisco Redes](https://t.me/ciscoredes)
 
 
 ## IOT
