@@ -10,7 +10,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 **Sumário**
 
 - [GRUPOS](#grupos)
+<<<<<<< HEAD
   - [Linguages de Programação](#linguagens-de-programação)
+=======
+  - [Linguages de Programação](#linguagens-de-programa&ccedil&atildeo)
+>>>>>>> master
   - [PHP](#php)
   - [PYTHON](#python)
   - [JAVA](#java)
