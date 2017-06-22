@@ -76,7 +76,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
-- **DISTRIBUICOES LINUX**
+- ##### DISTRIBUICOES LINUX
   - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
