@@ -7,6 +7,43 @@ E se eu te contar que tem milhares de usuários falando daquelas esquisitices de
 
 Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei alguns antros de esquisitice e a lista segue abaixo.
 
+**Sumário**
+
+- [Grupos](#grupos)
+  - [Linguages de Programação](#linguages de-programação)
+  - [PHP](#php)
+  - [PYTHON](#python)
+  - [JAVA](#java)
+  - [JAVA SCRIPT](#java-script)
+  - [HYBRID MOBILE](#hybrid-mobile)
+  - [GO](#go)
+  - [Elixir](#elixir)
+  - [Elm](#elm)
+  - [LINUX](#linux)
+    - [DISTRIBUICOES LINUX](#distribuicoes-linux)
+  - [WINDOWS](#windows)
+  - [DEV GERAL](#dev-geral)
+  - [DELPHI](#delphi)
+  - [RUBY](#ruby)
+  - [C](#c)
+  - [.NET](#.net)
+  - [REACT.JS](#react.js)
+  - [PLATAFORMAS](#plataformas)
+  - [TELECOMUNICAÇÃO](#telecomunicacao)
+  - [SUPORTE](#suporte)
+  - [ELETRONICA](#eletronica)
+  - [DEVOPS / INFRA](#devops-/-infra)
+  - [TESTES](#testes)
+  - [FREEBSD](#freebsd)
+  - [SEGURANÇA](#seguranca)
+  - [DATABASE](#database)
+  - [EMAIL](#email)
+  - [GIT](#git)
+  - [JOBS](#jobs)
+  - [OUTROS](#outros)
+-[CANAIS](#canais)
+-[BOTS](#bots)
+
 ## GRUPOS
 ### Linguagens de Programação
 - [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
