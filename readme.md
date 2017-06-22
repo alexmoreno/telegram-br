@@ -7,6 +7,43 @@ E se eu te contar que tem milhares de usuários falando daquelas esquisitices de
 
 Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei alguns antros de esquisitice e a lista segue abaixo.
 
+**Sumário**
+
+- [GRUPOS](#grupos)
+  - [Linguages de Programação](#linguagens-de-programação)
+  - [PHP](#php)
+  - [PYTHON](#python)
+  - [JAVA](#java)
+  - [JAVASCRIPT](#javascript)
+  - [HYBRID MOBILE](#hybrid-mobile)
+  - [GO](#go)
+  - [Elixir](#elixir)
+  - [Elm](#elm)
+  - [LINUX](#linux)
+    - [DISTRIBUICOES LINUX](#distribuicoes-linux)
+  - [WINDOWS](#windows)
+  - [DEV GERAL](#dev-geral)
+  - [DELPHI](#delphi)
+  - [RUBY](#ruby)
+  - [C](#c)
+  - [.NET](#net)
+  - [REACT.JS](#react.js)
+  - [PLATAFORMAS](#plataformas)
+  - [TELECOMUNICAÇÃO](#telecomunicacao)
+  - [SUPORTE](#suporte)
+  - [ELETRONICA](#eletronica)
+  - [DEVOPS / INFRA](#devops--infra)
+  - [TESTES](#testes)
+  - [FREEBSD](#freebsd)
+  - [SEGURANÇA](#seguranca)
+  - [DATABASE](#database)
+  - [EMAIL](#email)
+  - [GIT](#git)
+  - [JOBS](#jobs)
+  - [OUTROS](#outros)
+- [CANAIS](#canais)
+- [BOTS](#bots)
+
 ## GRUPOS
 ### Linguagens de Programação
 - [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
@@ -63,7 +100,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Elixir Brasil](https://telegram.me/elixirbr)
 - [Phoenix Brasil](https://telegram.me/phoenix_br)
 
-## Elm
+### Elm
 - [Elm Brasil](https://telegram.me/elmbrasil)
 
 ### LINUX
@@ -76,7 +113,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
-- **DISTRIBUICOES LINUX**
+- ##### DISTRIBUICOES LINUX
   - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
@@ -156,6 +193,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ELASTIC USERS BR](https://telegram.me/joinchat/AejjFQCHmDHk7796cRQXYA%20(OFF))
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
+- [Tecnologia Cisco BR](https://t.me/tecnologiaciscobr)
 
 ### TESTES
 - [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
@@ -216,10 +254,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Hacking News](https://telegram.me/hack_news)
 - [TI em Depressão](https://t.me/TI_em_Depressao)
 - [Guia Dev Fullstack](https://t.me/devfullstack)
-
-
-## IOT
-- [IOT BRASIL](https://telegram.me/iotbrasil)
+- [Cisco Redes](https://t.me/ciscoredes)
 
 ## BOTS 
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
