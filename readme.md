@@ -10,7 +10,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 **Sumário**
 
 - [Grupos](#grupos)
-  - [Linguages de Programação](#linguagens-de-programação)
+  - [Linguages de Programação](#linguagens-de-programacao)
   - [PHP](#php)
   - [PYTHON](#python)
   - [JAVA](#java)
