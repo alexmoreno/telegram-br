@@ -26,13 +26,13 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [DELPHI](#delphi)
   - [RUBY](#ruby)
   - [C](#c)
-  - [.NET](#.net)
+  - [.NET](#net)
   - [REACT.JS](#react.js)
   - [PLATAFORMAS](#plataformas)
   - [TELECOMUNICAÇÃO](#telecomunicacao)
   - [SUPORTE](#suporte)
   - [ELETRONICA](#eletronica)
-  - [DEVOPS / INFRA](#devops-/-infra)
+  - [DEVOPS / INFRA](#devops--infra)
   - [TESTES](#testes)
   - [FREEBSD](#freebsd)
   - [SEGURANÇA](#seguranca)
@@ -41,8 +41,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [GIT](#git)
   - [JOBS](#jobs)
   - [OUTROS](#outros)
--[CANAIS](#canais)
--[BOTS](#bots)
+- [CANAIS](#canais)
+- [BOTS](#bots)
 
 ## GRUPOS
 ### Linguagens de Programação
