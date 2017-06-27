@@ -125,6 +125,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [EXCEL BR](https://telegram.me/excelbr)
 
 ### DEV GERAL
+- [API Builders BR](https://t.me/apiBuilders)
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
