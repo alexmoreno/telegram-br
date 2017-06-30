@@ -104,6 +104,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Elm Brasil](https://telegram.me/elmbrasil)
 
 ### LINUX
+- [FISL18](https://t.me/joinchat/AAAAAERT1zTw6-MWOiz_eA)
 - [BACULA/BAREOS-BR](https://telegram.me/baculabr)
 - [BRASIL LINUX](https://telegram.me/brasillinux)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
