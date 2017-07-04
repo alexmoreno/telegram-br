@@ -81,6 +81,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### JAVASCRIPT
 
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
+- [EmberBR](https://t.me/EmberBR)
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
