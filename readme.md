@@ -96,6 +96,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### GO
 - [GO BR](https://telegram.me/go_br)
 
+### Vala
+- [Vala Brasil](https://t.me/Vala_BR)
+
 ### Elixir
 - [Elixir Brasil](https://telegram.me/elixirbr)
 - [Phoenix Brasil](https://telegram.me/phoenix_br)
@@ -119,6 +122,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
+  - [ELEMENTARY BRASIL](https://t.me/elementarybr)
   
 ### WINDOWS
 - [POWERSHELL BR](https://telegram.me/powershellbr)
