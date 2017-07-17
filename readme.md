@@ -73,6 +73,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
 - [PyKivy BR](https://t.me/pykivy)
+- [PyTche](https://t.me/pytche)
 
 ### JAVA
 - [JAVA PT](https://t.me/javaofficial_pt)
