@@ -232,6 +232,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [EMPREENDEDORISMO TI](https://telegram.me/joinchat/AI7jrT4ZFk94UZco3ymVsQ )
 - [GRUPO DE UX ](https://telegram.me/uxbrasil)
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
+- [Hack 'n' Cast](https://t.me/hackncast)
 - [LATEX BR](https://telegram.me/latexbr )
 - [OPERAÇÃO PEGA LEÃO (ebay)](https://telegram.me/OperacaoPegaLeao )
 - [PARCEIRO DOS CÓDIGOS](https://telegram.me/joinchat/CEMxwATo7yv6NW2y7CCGtw )
