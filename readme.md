@@ -67,6 +67,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
+- [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PYCODING](https://telegram.me/PyCoding)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 - [GruPyPR](https://telegram.me/grupy_pr)
