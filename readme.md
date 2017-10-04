@@ -247,6 +247,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
 - [PROGRAMEIROS](https://t.me/joinchat/AAAAAD-xLVoEzIPEWBM2Fw)
 - [API Builders BR](https://t.me/apiBuilders)
+- [ALGORITMOS](https://t.me/algoritmos)
 
 ## CANAIS
 - [IMASTERS](https://telegram.me/imasters ())
