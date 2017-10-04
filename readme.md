@@ -66,6 +66,10 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### PYTHON
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
+- [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
+- [PYCODING](https://telegram.me/PyCoding)
+- [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+
 - [GruPyPR](https://telegram.me/grupy_pr)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PYCODING](https://telegram.me/PyCoding)
@@ -80,6 +84,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [JAVA PT](https://t.me/javaofficial_pt)
 
 ### JAVASCRIPT
+- [JS BRASIL](https://telegram.me/javascriptbrasil)
+- [EmberBR](https://t.me/EmberBR)
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [Electron BR](https://telegram.me/electronJs_BR)
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
@@ -95,6 +101,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### GO
 - [GO BR](https://telegram.me/go_br)
+
+### Vala
+- [Vala Brasil](https://t.me/Vala_BR)
 
 ### Elixir
 - [Elixir Brasil](https://telegram.me/elixirbr)
@@ -120,12 +129,16 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
+  - [ELEMENTARY BRASIL](https://t.me/elementarybr)
   
 ### WINDOWS
 - [EXCEL BR](https://telegram.me/excelbr)
 - [POWERSHELL BR](https://telegram.me/powershellbr)
 
 ### DEV GERAL
+- [API Builders BR](https://t.me/apiBuilders)
+- [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
+- [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [Programação Funcional Brasil](https://telegram.me/ProgramacaoFuncionalBrasil)
@@ -203,6 +216,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
 
 ### SEGURANÇA
+- [CAVEIRATECH](https://telegram.me/caveiratech)
+- [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
 - [ENTERPRISE SECURITY](https://telegram.me/enterprisesecurity)
 - [FORTINET BRASIL](https://telegram.me/fortinetbr)
 - [SECUTIRY CAST](http://bit.ly/securitycast)
@@ -239,6 +254,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
 - [PROGRAMEIROS](https://t.me/joinchat/AAAAAD-xLVoEzIPEWBM2Fw)
 - [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/joinchat/CBcyYj32K4fEDI1BVBGagg )
+- [API Builders BR](https://t.me/apiBuilders)
+- [ALGORITMOS](https://t.me/algoritmos)
 
 ## CANAIS
 - [Cisco Redes](https://t.me/ciscoredes)
