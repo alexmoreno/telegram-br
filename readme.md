@@ -24,11 +24,14 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [WINDOWS](#windows)
   - [DEV GERAL](#dev-geral)
   - [DELPHI](#delphi)
+  - [LAZARUS/CODETYPHON](#lazarus)
   - [RUBY](#ruby)
   - [C](#c)
+  - [C++](#cpp)
   - [.NET](#net)
   - [REACT.JS](#react.js)
   - [PLATAFORMAS](#plataformas)
+  - [QT BRASIL](#qt-brasil)
   - [TELECOMUNICAÇÃO](#telecomunicacao)
   - [SUPORTE](#suporte)
   - [ELETRONICA](#eletronica)
@@ -121,6 +124,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
+- [KDE-BRASIL](https://t.me/kdebrasil)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
 - ##### DISTRIBUICOES LINUX
@@ -147,11 +151,20 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DELPHI
 - [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
 
+### LAZARUS
+- [LAZARUS/CODETYPHON](https://t.me/joinchat/AAAAAEDYQdfQIFCU1AXEoQ)
+
 ### RUBY
 - [RUBY BRASIL](https://telegram.me/rubybrasil)
 
 ### C
 - [C'USERS (PROGRAMAÇÃO EM C)](https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A)
+
+### Cpp
+- [C/C++ BRASIL](https://t.me/ccppbrasil)
+
+### QT BRASIL
+- [QT BRASIL](https://t.me/qtbrasil)
 
 ### .NET
 - [.NET Brasil](https://telegram.me/dotnetbr)
