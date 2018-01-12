@@ -44,6 +44,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [GIT](#git)
   - [JOBS](#jobs)
   - [OUTROS](#outros)
+  - [IT MUNDO A FORA](#it-mundo-a-fora)
 - [CANAIS](#canais)
 - [BOTS](#bots)
 
@@ -269,6 +270,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/joinchat/CBcyYj32K4fEDI1BVBGagg )
 - [API Builders BR](https://t.me/apiBuilders)
 - [ALGORITMOS](https://t.me/algoritmos)
+
+### IT MUNDO A FORA
+Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divulgação de vagas e etc.
+- [IT Dublin](https://t.me/joinchat/BbsQbw_FwHRlVLA-1MdnNg) 
+- [IT Alemanha](https://t.me/joinchat/BbsQbxGJuZams8m_LEM9vQ) 
 
 ## CANAIS
 - [Cisco Redes](https://t.me/ciscoredes)
