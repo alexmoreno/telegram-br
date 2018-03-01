@@ -135,7 +135,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
-  - [KALI LINUX BR] (https://t.me/kalibrasil)
+  - [KALI LINUX BR](https://t.me/kalibrasil)
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
   - [ELEMENTARY BRASIL](https://t.me/elementarybr)
