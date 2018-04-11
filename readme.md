@@ -10,6 +10,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 **Sumário**
 
 - [GRUPOS](#grupos)
+  - [ASSEMBLY BRAISL](#Assembly)
   - [Linguages de Programação](#linguagens-de-programação)
   - [PHP](#php)
   - [PYTHON](#python)
@@ -48,6 +49,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [BOTS](#bots)
 
 ## GRUPOS
+### Assembly
+- [ASSEMBLY BRASIL](https://t.me/assemblybr)
+
 ### Linguagens de Programação
 - [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
 
@@ -123,14 +127,15 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
-- [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [KDE-BRASIL](https://t.me/kdebrasil)
+- [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
 - ##### DISTRIBUICOES LINUX
   - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
+  - [KALI LINUX BR](https://t.me/kalibrasil)
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
   - [ELEMENTARY BRASIL](https://t.me/elementarybr)
@@ -149,7 +154,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 
 ### DELPHI
-- [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
+- [DELPHI BRASIL](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)
 
 ### LAZARUS
 - [LAZARUS/CODETYPHON](https://t.me/joinchat/AAAAAEDYQdfQIFCU1AXEoQ)
@@ -238,8 +243,13 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### DATABASE
 - [DBA BRASIL](https://telegram.me/joinchat/BSo6ET1rO4Ba2eSOHyMhGg)
+- [FIREBIRD BRASIL](https://t.me/joinchat/DtwgRkBmtf9nefnsKi7MXQ)
 - [MONGODB BRASIL](https://telegram.me/mongodbbrasil)
+- [MYSQL BRASIL](https://t.me/mysqlbr)
+- [POSTGIS BRASIL](https://t.me/postgisbr)
 - [POSTGRESQL BRASIL](https://telegram.me/postgresqlbr)
+- [SQLITE BRASIL](https://t.me/joinchat/AAAAAD8YYIoBHWyU7b82-g)
+- [SQLSERVER BRASIL](https://t.me/sqlmssql)
 
 ### EMAIL
 - [ZIMBRASIL](https://telegram.me/zimBrasil)
