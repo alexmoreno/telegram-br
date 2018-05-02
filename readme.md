@@ -108,6 +108,15 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NATIVESCRIPT BR](https://telegram.me/nativescriptbr)
 - [QUASAR FRAMEWORK](https://t.me/quasarframeworkbrasil)
 
+### PROGRAMAÇÃO MOBILE
+- [REACT NATIVE DROPS](https://t.me/reactnativedrops)
+- [ANDROID DEV DROPS](https://t.me/android_drops)
+- [IOS DEV DROPS](https://t.me/iosdrops)
+- [FLUTTER BRASIL](https://t.me/flutterbr)
+
+### PROGRAMAÇÃO BLOCKCHAIN
+- [EtherereumBR](https://t.me/etherbr)
+
 ### GO
 - [GO BR](https://telegram.me/go_br)
 
@@ -266,6 +275,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### JOBS
 - [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
+- [VAGAUM - VAGAS DE TRABALHO PARA PROGRAMADORES](https://t.me/vagaumdev)
 
 ### OUTROS 
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
