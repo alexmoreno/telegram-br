@@ -14,6 +14,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [Linguages de Programação](#linguagens-de-programação)
   - [PHP](#php)
   - [PYTHON](#python)
+  - [RUST](#rust)
   - [JAVA](#java)
   - [JAVASCRIPT](#javascript)
   - [HYBRID MOBILE](#hybrid-mobile)
