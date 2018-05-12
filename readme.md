@@ -73,20 +73,26 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ZENDFRAMEWORK](https://telegram.me/ZendFramework)
 
 ### PYTHON
+
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
-- [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
-- [PYCODING](https://telegram.me/PyCoding)
-- [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
-
 - [GruPyPR](https://telegram.me/grupy_pr)
-- [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PYCODING](https://telegram.me/PyCoding)
-- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
+- [PyBr Roda de Conversa](https://t.me/pythonbr)
+- [PyCoding](https://telegram.me/PyCoding)
 - [PyKivy BR](https://t.me/pykivy)
+- [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PyTche](https://t.me/pytche)
-- [PYTHON FLFASK](https://telegram.me/pythonflask)
-- [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
+- [Python Flask](https://telegram.me/pythonflask)
+- [Python Floripa](https://t.me/pythonfloripa)
+- [Python Joinville](https://t.me/pythonjoinville)
+- [Python Sul](https://t.me/PythonSulBR)
+- [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+
+
+### RUST
+- [Rust Floripa](https://t.me/rustfloripa)
 
 ### JAVA
 - [DevCodeBr Android/Java](https://t.me/devcodebr_android)
