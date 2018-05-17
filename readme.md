@@ -18,6 +18,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [JAVA](#java)
   - [JAVASCRIPT](#javascript)
   - [HYBRID MOBILE](#hybrid-mobile)
+  - [PROGRAMAÇÃO MOBILE](#programaÇÃo-mobile)
+  - [PROGRAMAÇÃO BLOCKCHAIN](#programaÇÃo-blockchain)
   - [GO](#go)
   - [Elixir](#elixir)
   - [Elm](#elm)
