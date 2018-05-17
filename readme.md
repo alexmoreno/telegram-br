@@ -223,7 +223,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 - [DEVOPS BR](https://telegram.me/devopsbr)
 - [DOCKER BR](https://telegram.me/dockerbr)
-- [ELASTIC USERS BR](https://telegram.me/joinchat/AejjFQCHmDHk7796cRQXYA%20(OFF))
+- [ELASTIC USERS BR](https://t.me/ElasticFantasticsBR)
 - [GRAYLOG BRASIL](https://telegram.me/graylogbr)
 - [INFRAESTRUTURA TI](https://telegram.me/infraestruturati)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
