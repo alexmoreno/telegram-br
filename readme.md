@@ -165,6 +165,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### DEV GERAL
 - [API Builders BR](https://t.me/apiBuilders)
+- [DEVS BRASIL 🇧🇷](https://t.me/DesenvolvedoresBrasil)
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
@@ -324,6 +325,7 @@ Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divu
 - [Receitas e Cia](https://telegram.me/comidaecia)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
 - [TI em Depressão](https://t.me/TI_em_Depressao)
+- [Versão Beta 🇧🇷](https://t.me/VersaoBeta)
 
 ## BOTS 
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
