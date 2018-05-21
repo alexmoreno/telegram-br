@@ -41,7 +41,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [ELETRONICA](#eletronica)
   - [DEVOPS / INFRA](#devops--infra)
   - [TESTES](#testes)
-  - [FREEBSD](#freebsd)
+  - [BSD](#bsd)
   - [SEGURANÇA](#seguranca)
   - [DATABASE](#database)
   - [EMAIL](#email)
@@ -254,8 +254,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### TESTES
 - [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
 
-### FREEBSD
-- [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
+### BSD
+- [FREEBSD](https://t.me/freebsdbrasil)
+- [NETBSD](https://t.me/netbsdbr)
+- [OPENBSD](https://t.me/openbsdbr)
+
 
 ### SEGURANÇA
 - [CAVEIRATECH](https://telegram.me/caveiratech)
