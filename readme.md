@@ -90,6 +90,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Python Flask](https://telegram.me/pythonflask)
 - [Python Floripa](https://t.me/pythonfloripa)
 - [Python Joinville](https://t.me/pythonjoinville)
+- [Python Rio](https://t.me/PythonRio)
 - [Python Sul](https://t.me/PythonSulBR)
 - [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 
