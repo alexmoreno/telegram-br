@@ -335,7 +335,7 @@ Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divu
 
 ## BOTS 
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
-- [BOT DEVELOPERS] (https://t.me/brbotdevs)
+- [BOT DEVELOPERS](https://t.me/brbotdevs)
 
 ## Mas cadê meu grupo?
 Ué, enfia ai no repositório (hmm) que rapidinho seu grupo aparece na listagem. Aliás, não precisa ser só o seu, pode ser qualquer grupo que você considere interessante. Se quiser me ajudar com a organização por categorias, fique à vontade também, só não deixe categorizado *demais* qee muita taxonomia mais dificulta do que ajuda.
