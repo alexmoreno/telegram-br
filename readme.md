@@ -65,6 +65,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [DRUPAL BRASIL](https://telegram.me/drupalbrasil)
 - [LARAVEL](http://telegram.me/laravelbr)
 - [PHP BRASIL](https://telegram.me/phpbrasil)
+- [PHP COM RAPADURA](https://telegram.me/phpcomrapadura)
 - [PHP Curitiba](https://telegram.me/phpcuritiba)
 - [PHP DF](https://telegram.me/phpdf)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
