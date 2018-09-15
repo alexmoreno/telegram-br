@@ -26,6 +26,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [LINUX](#linux)
     - [DISTRIBUICOES LINUX](#distribuicoes-linux)
   - [WINDOWS](#windows)
+  - [MAC](#mac)
   - [DEV GERAL](#dev-geral)
   - [DELPHI](#delphi)
   - [LAZARUS/CODETYPHON](#lazarus)
@@ -165,6 +166,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### WINDOWS
 - [EXCEL BR](https://telegram.me/excelbr)
 - [POWERSHELL BR](https://telegram.me/powershellbr)
+
+### MAC
+- [MACOS BR](https://t.me/joinchat/GLfmJhK1JiTJp5apqbxofw)
 
 ### DEV GERAL
 - [API Builders BR](https://t.me/apiBuilders)
