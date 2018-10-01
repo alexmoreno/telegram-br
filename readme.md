@@ -77,23 +77,23 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### PYTHON
 
+- [GRUPY-ABC](https://telegram.me/grupyabc)
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
-- [GruPyPR](https://telegram.me/grupy_pr)
-- [PYCODING](https://telegram.me/PyCoding)
+- [GRUPY-PR](https://telegram.me/grupy_pr)
+- [GRUPY-SP](https://telegram.me/grupysaopaulo)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PyCoding](https://telegram.me/PyCoding)
+- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
 - [PyKivy BR](https://t.me/pykivy)
 - [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PyTche](https://t.me/pytche)
-- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
 - [Python Flask](https://telegram.me/pythonflask)
 - [Python Floripa](https://t.me/pythonfloripa)
 - [Python Joinville](https://t.me/pythonjoinville)
 - [Python Rio](https://t.me/PythonRio)
 - [Python Sul](https://t.me/PythonSulBR)
 - [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
-
 
 ### RUST
 - [Rust Floripa](https://t.me/rustfloripa)
