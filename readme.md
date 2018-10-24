@@ -111,6 +111,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
+- [RxJS BRASIL - Programação Reativa] (https://telegram.me/rxjsbrasil)
 
 ### HYBRID MOBILE
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
