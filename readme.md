@@ -77,6 +77,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### PYTHON
 
+- [GRUPY-RN]()
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
 - [GruPyPR](https://telegram.me/grupy_pr)
