@@ -58,7 +58,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### Linguagens de Programação
 
-- [LINGUAGENS DE PROGRAMAÇÃO]()
+- [LINGUAGENS DE PROGRAMAÇÃO](https://t.me/programadoresbrasil)
 
 ### PHP
 - [CAKEPHP BR](https://telegram.me/cakephpbr)
@@ -68,7 +68,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PHP BRASIL](https://telegram.me/phpbrasil)
 - [PHP COM RAPADURA](https://telegram.me/phpcomrapadura)
 - [PHP DF](https://telegram.me/phpdf)
-- [PHP MARANHÃO UG]()
+- [PHP MARANHÃO UG](https://t.me/phpmaranhao)
 - [PHP RIO](https://telegram.me/phprio)
 - [SILEX ](http://telegram.me/silexbrasil)
 - [SYMFONY](http://telegram.me/symfonybrasil)
@@ -110,7 +110,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### HYBRID MOBILE
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
-- [IONIC 2]()
+- [IONIC 2](https://telegram.me/ionic2br)
 - [NATIVESCRIPT BR](https://telegram.me/nativescriptbr)
 - [QUASAR FRAMEWORK](https://t.me/quasarframeworkbrasil)
 
@@ -140,14 +140,14 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [BRASIL LINUX](https://telegram.me/brasillinux)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
-- [LINUX BRAZUCA]()
+- [LINUX BRAZUCA](https://telegram.me/linuxbrazuca)
 - [KDE-BRASIL](https://t.me/kdebrasil)
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
 - [PAPO DE LINUX COM LIBERDADE DE EXPRESSÃO](https://t.me/linuxlivre)
 - ##### DISTRIBUICOES LINUX
-  - [ARCH LINUX BRASIL]()
+  - [ARCH LINUX BRASIL](https://telegram.me/archlinuxbrasil)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [KALI LINUX BR](https://t.me/kalibrasil)
@@ -211,10 +211,10 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ARDUINO, RASPBERRY, ELETRÔNICA E AFINS...](https://telegram.me/joinchat/BQwnFTxx069EQRiYyIiLJw)
 
 ### DEVOPS / INFRA
-- [ANSIBLE BR]()
+- [ANSIBLE BR](https://telegram.me/ansiblebr)
 - [AWS USERS BR](https://telegram.me/awsbrasil)
 - [CCNA BRASIL](https://telegram.me/ccnabrasil)
-- [CLOUDSTACK]()
+- [CLOUDSTACK](https://telegram.me/cloudstack)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 - [DEVOPS BR](https://telegram.me/devopsbr)
 - [DOCKER BR](https://telegram.me/dockerbr)
@@ -225,14 +225,14 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NETWORKERS BR](https://telegram.me/NetworkersBR)
 - [NXFILTER - DNS WEBFILTER](https://telegram.me/NxfilterBR)
 - [OPENSHIFT BR](https://telegram.me/openshiftbr)
-- [OPENSTACK]()
+- [OPENSTACK](https://telegram.me/openstackbr)
 - [PFSENSE BR](https://telegram.me/pfsensebr )
 - [PROXMOX VE](http://telegram.me/ProxmoxBrasil)
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [Tecnologia Cisco BR](https://t.me/tecnologiaciscobr)
-- [VAGRANT BR]()
-- [VIRTUALIZAÇÃO]()
-- [ZABBIX BRASIl]()
+- [VAGRANT BR](https://telegram.me/vagrantbr)
+- [VIRTUALIZAÇÃO](https://telegram.me/virtualizacaobr)
+- [ZABBIX BRASIl](https://telegram.me/zabbixbr)
 
 ### TESTES
 - [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
@@ -263,7 +263,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### GIT
 - [GIT BRASIL](https://t.me/GitBrasil)
-- [GITLAB USERS BR]()
+- [GITLAB USERS BR](https://telegram.me/gitlabbr)
 
 ### JOBS
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
@@ -278,9 +278,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Hack 'n' Cast](https://t.me/hackncast)
 - [LATEX BR](https://telegram.me/latexbr )
 - [OPERAÇÃO PEGA LEÃO (ebay)](https://telegram.me/OperacaoPegaLeao )
-- [POTILIVRE ]()
-- [PROGRAMEIROS]()
-- [TECNOLOGIA DA INFORMAÇÃO]()
+- [POTILIVRE ](https://telegram.me/potilivre)
+- [PROGRAMEIROS](https://telegram.me/programeiros)
+- [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/tecnologiadainformacao)
 - [ALGORITMOS](https://t.me/algoritmos)
 
 ### IT MUNDO A FORA
