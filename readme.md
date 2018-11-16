@@ -10,8 +10,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 **Sumário**
 
 - [GRUPOS](#grupos)
-  - [ASSEMBLY BRAISL](#Assembly)
-  - [Linguages de Programação](#linguagens-de-programação)
+  - [ASSEMBLY BRASIL](#Assembly)
+  - [LINGUAGENS DE PROGRAMAÇÃO](#linguagens-de-programação)
   - [PHP](#php)
   - [PYTHON](#python)
   - [RUST](#rust)
@@ -21,8 +21,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [PROGRAMAÇÃO MOBILE](#programaÇÃo-mobile)
   - [PROGRAMAÇÃO BLOCKCHAIN](#programaÇÃo-blockchain)
   - [GO](#go)
-  - [Elixir](#elixir)
-  - [Elm](#elm)
+  - [ELIXIR](#elixir)
+  - [ELM](#elm)
   - [LINUX](#linux)
     - [DISTRIBUICOES LINUX](#distribuicoes-linux)
   - [WINDOWS](#windows)
