@@ -151,12 +151,14 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [KDE-BRASIL](https://t.me/kdebrasil)
+- [KDE-BRASIL DEV](https://t.me/KdeBrasilDesenvolvimento)
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
 - [PAPO DE LINUX COM LIBERDADE DE EXPRESSÃO](https://t.me/linuxlivre)
 - ##### DISTRIBUICOES LINUX
-  - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+  - [ARCH LINUX BRASIL](https://t.me/archlinuxbr)
+  - [ARCH LINUX BRASIL - FÓRUM](https://t.me/archlinuxbrasil)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [KALI LINUX BR](https://t.me/kalibrasil)
@@ -181,8 +183,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DELPHI
 - [DELPHI BRASIL](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)
 
-### LAZARUS
+### LAZARUS - FREE PASCAL
 - [LAZARUS/CODETYPHON](https://t.me/joinchat/AAAAAEDYQdfQIFCU1AXEoQ)
+- [LAZARUS FREE PASCAL](https://t.me/lazarusfreepascal1)
 
 ### RUBY
 - [RUBY BRASIL](https://telegram.me/rubybrasil)
@@ -274,6 +277,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DATABASE
 - [DBA BRASIL](https://telegram.me/joinchat/BSo6ET1rO4Ba2eSOHyMhGg)
 - [FIREBIRD BRASIL](https://t.me/joinchat/DtwgRkBmtf9nefnsKi7MXQ)
+- [MARIADB BRASIL](https://t.me/joinchat/DtwgRhV0vrQfGOhuSapyvg)
 - [MONGODB BRASIL](https://telegram.me/mongodbbrasil)
 - [MYSQL BRASIL](https://t.me/mysqlbr)
 - [POSTGIS BRASIL](https://t.me/postgisbr)
@@ -307,6 +311,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PARCEIRO DOS CÓDIGOS](https://telegram.me/joinchat/CEMxwATo7yv6NW2y7CCGtw )
 - [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
 - [PROGRAMEIROS](https://t.me/joinchat/AAAAAD-xLVoEzIPEWBM2Fw)
+- [Programming Begginers Club C/C++/Python/Ruby/C#/Go/ASM/Java](https://t.me/progclucb)
 - [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/joinchat/CBcyYj32K4fEDI1BVBGagg )
 - [API Builders BR](https://t.me/apiBuilders)
 - [ALGORITMOS](https://t.me/algoritmos)
