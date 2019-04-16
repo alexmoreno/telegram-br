@@ -111,7 +111,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 - [NODEBR](https://telegram.me/NodeBR)
-- [RxJS BRASIL - Programação Reativa] (https://telegram.me/rxjsbrasil)
+- [RxJS BRASIL - Programação Reativa](https://telegram.me/rxjsbrasil)
 - [GraphQL Brasil](https://t.me/GraphQLBrasil)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Vue.js Vix](https://t.me/vuejsvix)
