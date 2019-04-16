@@ -111,8 +111,16 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 - [NODEBR](https://telegram.me/NodeBR)
-- [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [RxJS BRASIL - Programação Reativa] (https://telegram.me/rxjsbrasil)
+- [GraphQL Brasil](https://t.me/GraphQLBrasil)
+- [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
+- [Vue.js Vix](https://t.me/vuejsvix)
+- [ElementUI Brasil](https://t.me/elementbr)
+- [Vuetify Framework Brasil](https://t.me/vuetifybr)
+- [NativescriptVue Brasil](https://t.me/nativescriptvuebr)
+- [NativeScript BR](https://t.me/nativescriptbr)
+- [Vue Native](https://t.me/VueNative)
+- [NuxtJS Brasil](https://t.me/nuxtjs_brasil)
 
 ### HYBRID MOBILE
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
