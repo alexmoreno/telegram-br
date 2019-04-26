@@ -11,7 +11,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 - [GRUPOS](#grupos)
   - [ASSEMBLY BRAISL](#Assembly)
-  - [Linguages de Programação](#linguagens-de-programação)
+  - [Linguagens de Programação](#linguagens-de-programação)
   - [PHP](#php)
   - [PYTHON](#python)
   - [RUST](#rust)
