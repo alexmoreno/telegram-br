@@ -211,6 +211,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [JOOMLA RJ](https://telegram.me/joomlariodejaneiro)
 - [MAGENTO](http://telegram.me/magentobr)
 - [OPENCART BRASIL](https://telegram.me/opencartbrasil)
+- [TEGCOMMERCE](https://telegram.me/tegcommerce)
 
 
 ### TELECOMUNICAÇÃO
