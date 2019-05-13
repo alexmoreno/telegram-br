@@ -10,8 +10,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 **Sumário**
 
 - [GRUPOS](#grupos)
-  - [ASSEMBLY BRAISL](#Assembly)
-  - [Linguages de Programação](#linguagens-de-programação)
+  - [ASSEMBLY BRASIL](#Assembly)
+  - [LINGUAGENS DE PROGRAMAÇÃO](#linguagens-de-programação)
   - [PHP](#php)
   - [PYTHON](#python)
   - [RUST](#rust)
@@ -21,8 +21,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [PROGRAMAÇÃO MOBILE](#programaÇÃo-mobile)
   - [PROGRAMAÇÃO BLOCKCHAIN](#programaÇÃo-blockchain)
   - [GO](#go)
-  - [Elixir](#elixir)
-  - [Elm](#elm)
+  - [ELIXIR](#elixir)
+  - [ELM](#elm)
   - [LINUX](#linux)
     - [DISTRIBUICOES LINUX](#distribuicoes-linux)
   - [WINDOWS](#windows)
@@ -57,7 +57,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ASSEMBLY BRASIL](https://t.me/assemblybr)
 
 ### Linguagens de Programação
-- [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
+
+- [LINGUAGENS DE PROGRAMAÇÃO](https://t.me/programadoresbrasil)
 
 ### PHP
 - [CAKEPHP BR](https://telegram.me/cakephpbr)
@@ -66,10 +67,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [LARAVEL](http://telegram.me/laravelbr)
 - [PHP BRASIL](https://telegram.me/phpbrasil)
 - [PHP COM RAPADURA](https://telegram.me/phpcomrapadura)
-- [PHP Curitiba](https://telegram.me/phpcuritiba)
 - [PHP DF](https://telegram.me/phpdf)
-- [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
-- [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
+- [PHP MARANHÃO UG](https://t.me/phpmaranhao)
 - [PHP RIO](https://telegram.me/phprio)
 - [SILEX ](http://telegram.me/silexbrasil)
 - [SYMFONY](http://telegram.me/symfonybrasil)
@@ -81,11 +80,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPY-ABC](https://telegram.me/grupyabc)
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
-- [GRUPY-PR](https://telegram.me/grupy_pr)
 - [GRUPY-SP](https://telegram.me/grupysaopaulo)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PyCoding](https://telegram.me/PyCoding)
-- [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
 - [PyKivy BR](https://t.me/pykivy)
 - [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PyTche](https://t.me/pytche)
@@ -94,29 +91,26 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Python Joinville](https://t.me/pythonjoinville)
 - [Python Rio](https://t.me/PythonRio)
 - [Python Sul](https://t.me/PythonSulBR)
-- [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 
 ### RUST
 - [Rust Floripa](https://t.me/rustfloripa)
 
 ### JAVA
 - [DevCodeBr Android/Java](https://t.me/devcodebr_android)
-- [JAVA PT](https://t.me/javaofficial_pt)
 
 ### JAVASCRIPT
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
 - [EmberBR](https://t.me/EmberBR)
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [Electron BR](https://telegram.me/electronJs_BR)
-- [JS BRASIL](https://telegram.me/javascriptbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
-- [RxJS BRASIL - Programação Reativa] (https://telegram.me/rxjsbrasil)
+- [RxJS BRASIL - Programação Reativa](https://telegram.me/rxjsbrasil)
 
 ### HYBRID MOBILE
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
-- [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
+- [IONIC 2](https://telegram.me/ionic2br)
 - [NATIVESCRIPT BR](https://telegram.me/nativescriptbr)
 - [QUASAR FRAMEWORK](https://t.me/quasarframeworkbrasil)
 
@@ -137,7 +131,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### Elixir
 - [Elixir Brasil](https://telegram.me/elixirbr)
-- [Phoenix Brasil](https://telegram.me/phoenix_br)
 
 ### Elm
 - [Elm Brasil](https://telegram.me/elmbrasil)
@@ -146,17 +139,15 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [BACULA/BAREOS-BR](https://telegram.me/baculabr)
 - [BRASIL LINUX](https://telegram.me/brasillinux)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
-- [FISL18](https://t.me/joinchat/AAAAAERT1zTw6-MWOiz_eA)
-- [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
-- [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
+- [LINUX BRAZUCA](https://telegram.me/linuxbrazuca)
 - [KDE-BRASIL](https://t.me/kdebrasil)
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [SEMPRE UPDATE LINUX](https://telegram.me/joinchat/AbDu9jv9mMuEmOyk-wvIGw)
 - [SHELLSCRIPT BR](https://telegram.me/shellbr)
 - [PAPO DE LINUX COM LIBERDADE DE EXPRESSÃO](https://t.me/linuxlivre)
 - ##### DISTRIBUICOES LINUX
-  - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+  - [ARCH LINUX BRASIL](https://telegram.me/archlinuxbrasil)
   - [DEBIAN BR](https://telegram.me/debianbr)
   - [FEDORA BR](https://telegram.me/fedorabr)
   - [KALI LINUX BR](https://t.me/kalibrasil)
@@ -171,12 +162,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DEV GERAL
 - [API Builders BR](https://t.me/apiBuilders)
 - [DEVS BRASIL 🇧🇷](https://t.me/DesenvolvedoresBrasil)
-- [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [FRONTEND BRASIL](https://telegram.me/frontendbrasil)
-- [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
-- [Programação Funcional Brasil](https://telegram.me/ProgramacaoFuncionalBrasil)
-- [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
 
 ### DELPHI
 - [DELPHI BRASIL](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)
@@ -190,7 +177,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [RubyOnRio](https://t.me/joinchat/Abyn3z9mw29oWhfnRrQkUQ)
 
 ### C
-- [C'USERS (PROGRAMAÇÃO EM C)](https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A)
 
 ### Cpp
 - [C/C++ BRASIL](https://t.me/ccppbrasil)
@@ -215,45 +201,39 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 
 ### TELECOMUNICAÇÃO
-- [ASTERISK ELASTIX FREEPBX PIAF](https://telegram.me/joinchat/CMF1cQNxp6Xx0pj-RteImA)
-- [FUNDAÇÃO ASTERISK LIBRE](https://telegram.me/falbr)
 - [OPENSIPS BR](https://telegram.me/opensipsbrasil)
-- [USUÁRIOS SNEPLIVRE](https://telegram.me/joinchat/CQ-FrggJFqo0WtkXGC1cFQ)
 
 
 ### SUPORTE
-- [CITRIX XENDESKTOP](https://telegram.me/joinchat/047dd738016341fabbdb541f55cd89a1)
+- []()
 
 
 ### ELETRONICA
 - [ARDUINO, RASPBERRY, ELETRÔNICA E AFINS...](https://telegram.me/joinchat/BQwnFTxx069EQRiYyIiLJw)
 
 ### DEVOPS / INFRA
-- [ANSIBLE BR](https://telegram.me/joinchat/AejjFQbucrfAUGaXAbMZFA )
+- [ANSIBLE BR](https://telegram.me/ansiblebr)
 - [AWS USERS BR](https://telegram.me/awsbrasil)
-- [BACULA BR](https://telegram.me/baculabr)
 - [CCNA BRASIL](https://telegram.me/ccnabrasil)
-- [CLOUDSTACK](https://telegram.me/joinchat/AxrvtASPySwVlMekVc1u9g )
+- [CLOUDSTACK](https://telegram.me/cloudstack)
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 - [DEVOPS BR](https://telegram.me/devopsbr)
 - [DOCKER BR](https://telegram.me/dockerbr)
 - [ELASTIC USERS BR](https://t.me/ElasticFantasticsBR)
 - [GRAYLOG BRASIL](https://telegram.me/graylogbr)
-- [INFRAESTRUTURA TI](https://telegram.me/infraestruturati)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [MIKROTIK BRASIL](https://telegram.me/mikrotikbr)
 - [NETWORKERS BR](https://telegram.me/NetworkersBR)
 - [NXFILTER - DNS WEBFILTER](https://telegram.me/NxfilterBR)
 - [OPENSHIFT BR](https://telegram.me/openshiftbr)
-- [OPENSTACK](https://telegram.me/joinchat/A733uQEc9QeO044adfcbgQ )
+- [OPENSTACK](https://telegram.me/openstackbr)
 - [PFSENSE BR](https://telegram.me/pfsensebr )
 - [PROXMOX VE](http://telegram.me/ProxmoxBrasil)
 - [PUPPET BR](https://telegram.me/puppetbr)
 - [Tecnologia Cisco BR](https://t.me/tecnologiaciscobr)
-- [VAGRANT BR](https://telegram.me/joinchat/AejjFQZcA-IOjJmRXzmcIA%20(OFF) )
-- [VAGRANT USERS BR](https://telegram.me/joinchat/AejjFQZcA-IOjJmRXzmcIA%20(OFF))
-- [VIRTUALIZAÇÃO](https://telegram.me/joinchat/AI7jrT5lBV9gFGE3w-Fy6Q)
-- [ZABBIX BRASIl](https://telegram.me/joinchat/AI7jrT05Fqe8BscujO5IfQ)
+- [VAGRANT BR](https://telegram.me/vagrantbr)
+- [VIRTUALIZAÇÃO](https://telegram.me/virtualizacaobr)
+- [ZABBIX BRASIl](https://telegram.me/zabbixbr)
 
 ### TESTES
 - [GRUPO TESTES CARIOCA](https://telegram.me/grupodetestescarioca)
@@ -266,11 +246,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### SEGURANÇA
 - [CAVEIRATECH](https://telegram.me/caveiratech)
-- [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
 - [ENTERPRISE SECURITY](https://telegram.me/enterprisesecurity)
 - [FORTINET BRASIL](https://telegram.me/fortinetbr)
-- [SECUTIRY CAST](http://bit.ly/securitycast)
-- [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
 
 ### DATABASE
 - [DBA BRASIL](https://telegram.me/joinchat/BSo6ET1rO4Ba2eSOHyMhGg)
@@ -287,29 +264,24 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### GIT
 - [GIT BRASIL](https://t.me/GitBrasil)
-- [GITLAB USERS BR](https://telegram.me/joinchat/AejjFQf2XJYdTFmrCfLBsg )
+- [GITLAB USERS BR](https://telegram.me/gitlabbr)
 
 ### JOBS
-- [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
 - [VAGAUM - VAGAS DE TRABALHO PARA PROGRAMADORES](https://t.me/vagaumdev)
 
 ### OUTROS 
-- [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
 - [API Builders BR](https://t.me/apiBuilders)
 - [BITCOIN BRASIL](https://telegram.me/brasilbitcoin )
 - [EDUCAÇÃO E TECNOLOGIA](https://telegram.me/educacao_e_tecnologia)
-- [EMPREENDEDORISMO TI](https://telegram.me/joinchat/AI7jrT4ZFk94UZco3ymVsQ )
 - [GRUPO DE UX ](https://telegram.me/uxbrasil)
 - [GRUPO DO DESIGN ](https://telegram.me/GrupoDoDesigner)
 - [Hack 'n' Cast](https://t.me/hackncast)
 - [LATEX BR](https://telegram.me/latexbr )
 - [OPERAÇÃO PEGA LEÃO (ebay)](https://telegram.me/OperacaoPegaLeao )
-- [PARCEIRO DOS CÓDIGOS](https://telegram.me/joinchat/CEMxwATo7yv6NW2y7CCGtw )
-- [POTILIVRE ](https://telegram.me/joinchat/AvMomgAeNcVoFFGFggjDJw)
-- [PROGRAMEIROS](https://t.me/joinchat/AAAAAD-xLVoEzIPEWBM2Fw)
-- [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/joinchat/CBcyYj32K4fEDI1BVBGagg )
-- [API Builders BR](https://t.me/apiBuilders)
+- [POTILIVRE ](https://telegram.me/potilivre)
+- [PROGRAMEIROS](https://telegram.me/programeiros)
+- [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/tecnologiadainformacao)
 - [ALGORITMOS](https://t.me/algoritmos)
 
 ### IT MUNDO A FORA
@@ -319,8 +291,6 @@ Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divu
 
 ## CANAIS
 - [Cisco Redes](https://t.me/ciscoredes)
-- [Guia Dev Fullstack](https://t.me/devfullstack)
-- [GUIA DO FRONTEND](https://telegram.me/guiadofrontend)
 - [Hacking News](https://telegram.me/hack_news)
 - [IMASTERS](https://telegram.me/imasters)
 - [Mundo JS](https://telegram.me/mundoJS)
