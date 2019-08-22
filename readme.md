@@ -188,6 +188,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [FULLSTACK E DESIGN BRASIL](https://telegram.me/fullstack_desenvolvedores_br)
 - [Programação Funcional Brasil](https://telegram.me/ProgramacaoFuncionalBrasil)
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
+- [Developers](https://telegram.me/devs_brasil)
 
 ### DELPHI
 - [DELPHI BRASIL](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)
