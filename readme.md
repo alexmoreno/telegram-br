@@ -173,6 +173,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [KALI LINUX BR](https://t.me/kalibrasil)
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
+  - [UBUNTU LINUX BR](https://t.me/ulboficial)
   - [ELEMENTARY BRASIL](https://t.me/elementarybr)
   
 ### WINDOWS
@@ -224,6 +225,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [MAGENTO](http://telegram.me/magentobr)
 - [OPENCART BRASIL](https://telegram.me/opencartbrasil)
 - [TEGCOMMERCE](https://telegram.me/tegcommerce)
+- [WORDPRESS BRASIL](https://telegram.me/WordPressBrasil)
 
 
 ### TELECOMUNICAÇÃO
