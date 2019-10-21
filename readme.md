@@ -306,6 +306,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### JOBS
 - [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
+- [IT JOBS PE](https://t.me/channelitjobspe)
 - [VAGAUM - VAGAS DE TRABALHO PARA PROGRAMADORES](https://t.me/vagaumdev)
 
 ### OUTROS 
