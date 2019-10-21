@@ -70,6 +70,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PHP DF](https://telegram.me/phpdf)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
+- [PHP Pernambuco](https://telegram.me/phppe)
 - [PHP RIO](https://telegram.me/phprio)
 - [PHP RS](https://telegram.me/phprs)
 - [SILEX ](http://telegram.me/silexbrasil)
