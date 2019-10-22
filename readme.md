@@ -109,7 +109,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [EmberBR](https://t.me/EmberBR)
 - [ANGULARJS BRASIL](https://telegram.me/angularjsbrasil)
 - [Electron BR](https://telegram.me/electronJs_BR)
-- [JS BRASIL](https://telegram.me/javascriptbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
 - [NODEBR](https://telegram.me/NodeBR)
 - [RxJS BRASIL - Programação Reativa](https://telegram.me/rxjsbrasil)
