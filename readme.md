@@ -330,7 +330,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### IT MUNDO A FORA
 Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divulgação de vagas e etc.
 - [IT Dublin](https://t.me/joinchat/BbsQbw_FwHRlVLA-1MdnNg) 
-- [IT Alemanha](https://t.me/joinchat/BbsQbxGJuZams8m_LEM9vQ) 
+- [IT Alemanha](https://t.me/joinchat/BbsQbxGJuZams8m_LEM9vQ)
+- [IT Portugal](https://t.me/tiportugal) 
+
 
 ## CANAIS
 - [Cisco Redes](https://t.me/ciscoredes)
