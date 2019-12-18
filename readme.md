@@ -76,6 +76,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SYMFONY](http://telegram.me/symfonybrasil)
 - [YII](http://telegram.me/yiibrasil)
 - [ZENDFRAMEWORK](https://telegram.me/ZendFramework)
+- [PHP Raiz](https://t.me/PhpRaiz)
 
 ### PYTHON
 
@@ -96,6 +97,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Python Rio](https://t.me/PythonRio)
 - [Python Sul](https://t.me/PythonSulBR)
 - [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+- [Python Raiz](https://t.me/PythonRaiz)
 
 ### RUST
 - [Rust Floripa](https://t.me/rustfloripa)
@@ -103,6 +105,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### JAVA
 - [DevCodeBr Android/Java](https://t.me/devcodebr_android)
 - [JAVA PT](https://t.me/javaofficial_pt)
+- [JAVA Raiz](https://t.me/JavaRaiz)
 
 ### JAVASCRIPT
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
@@ -122,6 +125,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NativeScript BR](https://t.me/nativescriptbr)
 - [Vue Native](https://t.me/VueNative)
 - [NuxtJS Brasil](https://t.me/nuxtjs_brasil)
+- [JavaScript Raiz](https://t.me/JavascriptRaiz)
 
 ### HYBRID MOBILE
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
@@ -295,6 +299,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [POSTGRESQL BRASIL](https://telegram.me/postgresqlbr)
 - [SQLITE BRASIL](https://t.me/joinchat/AAAAAD8YYIoBHWyU7b82-g)
 - [SQLSERVER BRASIL](https://t.me/sqlmssql)
+- [SQL Raiz](https://t.me/SqlRaiz)
 
 ### EMAIL
 - [ZIMBRASIL](https://telegram.me/zimBrasil)
@@ -307,6 +312,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
 - [VAGAUM - VAGAS DE TRABALHO PARA PROGRAMADORES](https://t.me/vagaumdev)
+- [CADASTRE SEU CURRICULO PARA VAGAS DE TECNOLOGIA](https://mercadodeti.com.br/VagasParaTecnologia)
+- [VAGAS PARA TECNOLOGIA](https://t.me/VagasParaTecnologia)
 
 ### OUTROS 
 - [ACESSIBILIDADE NA WEB](https://telegram.me/acessibilidadenaweb)
@@ -326,6 +333,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [TECNOLOGIA DA INFORMAÇÃO](https://telegram.me/joinchat/CBcyYj32K4fEDI1BVBGagg )
 - [API Builders BR](https://t.me/apiBuilders)
 - [ALGORITMOS](https://t.me/algoritmos)
+- [SIGA O INSTAGRAM MERCADO DE TI](https://instagram.com/mercadodeti )
 
 ### IT MUNDO A FORA
 Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divulgação de vagas e etc.
