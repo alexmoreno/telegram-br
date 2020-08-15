@@ -9,7 +9,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ## GRUPOS
 ### Linguagens de Programação
-- [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/joinchat/CYyDAQfftkFOp8kSrKF_QQ)
+- [LINGUAGENS DE PROGRAMAÇÃO](https://telegram.me/programadoresbrasil)
 
 ### PHP
 - [PHP BRASIL](https://telegram.me/phpbrasil)
@@ -22,6 +22,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [CODEIGNITER](http://telegram.me/codeigniterbr)
 - [PHP PARA ASTERISK](https://telegram.me/joinchat/A2dO3gR-WUwZv89DFzJTEw)
 - [PHP MARANHÃO UG](https://telegram.me/joinchat/AOBqkQB3Pt6YVANKgdh7IA)
+- [PHP + LARAVEL](http://telegram.me/phplaravelbr)
 
 ### PYTHON
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
@@ -41,7 +42,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
 
 ### LINUX
-- [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
+- [LINUX + LPI](https://telegram.me/linuxparatodos )
 - [FEDORA BR](https://telegram.me/fedorabr)
 - [ESTUDANTE LINUX](https://telegram.me/estudante_linux)
 - [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
@@ -101,6 +102,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [MIKROTIK BRASIL](https://telegram.me/mikrotikbr)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [INFRAESTRUTURA TI](https://telegram.me/infraestruturati)
+- [INFRA TI CORPORATE](https://telegram.me/infraticorporate)
 - [DEVOPS BR](https://telegram.me/devopsbr)
 - [CLOUDSTACK](https://telegram.me/joinchat/AxrvtASPySwVlMekVc1u9g )
 - [CCNA BRASIL](https://telegram.me/ccnabrasil)
@@ -117,7 +119,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [COMUNIDADE BRASILEIRA DE ENDIAN FIREWALL](https://telegram.me/Endian_Firewall)
 
 ### FREEBSD
-- [FREEBSD](https://telegram.me/joinchat/CYyDAQdfCM7eViX0q56zfw)
+- [FREEBSD](https://telegram.me/freebsdbr)
 
 ### SEGURANÇA
 - [TRANSPARÊNCIA HACKER BR](https://telegram.me/thackersbr)
