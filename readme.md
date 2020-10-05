@@ -83,6 +83,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
 - [GRUPY-PR](https://telegram.me/grupy_pr)
+- [GRUPY-RN](https://t.me/GrupyRN)
 - [GRUPY-SP](https://telegram.me/grupysaopaulo)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PyCoding](https://telegram.me/PyCoding)
@@ -200,6 +201,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [RUBY BRASIL](https://telegram.me/rubybrasil)
 - [Ruby On Rails BR](https://telegram.me/rubyonrailsbr)
 - [RubyOnRio](https://t.me/joinchat/Abyn3z9mw29oWhfnRrQkUQ)
+- [Ruby-RN](https://t.me/ruby_rn)
+- [Jampa Ruby](https://t.me/jamparuby)
 
 ### C
 - [C'USERS (PROGRAMAÇÃO EM C)](https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A)
