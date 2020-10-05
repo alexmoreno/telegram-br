@@ -83,6 +83,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
 - [GRUPY-PR](https://telegram.me/grupy_pr)
+- [GRUPY-RN](https://t.me/GrupyRN)
 - [GRUPY-SP](https://telegram.me/grupysaopaulo)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PyCoding](https://telegram.me/PyCoding)
