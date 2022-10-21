@@ -191,6 +191,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### DELPHI
 - [DELPHI BRASIL](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)
+- [ACADEMIA DO CÓDIGO](https://t.me/joinchat/Rje_f2Bjh673Y5WJ)
 
 ### LAZARUS - FREE PASCAL
 - [LAZARUS/CODETYPHON](https://t.me/joinchat/AAAAAEDYQdfQIFCU1AXEoQ)
