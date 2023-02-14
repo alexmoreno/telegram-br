@@ -33,7 +33,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [C](#c)
   - [C++](#cpp)
   - [.NET](#net)
-  - [REACT.JS](#react.js)
+  - [ReactJS](#ReactJS)
   - [PLATAFORMAS](#plataformas)
   - [QT BRASIL](#qt-brasil)
   - [TELECOMUNICAÇÃO](#telecomunicacao)
@@ -134,6 +134,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ANDROID DEV DROPS](https://t.me/android_drops)
 - [IOS DEV DROPS](https://t.me/iosdrops)
 - [FLUTTER BRASIL](https://t.me/flutterbr)
+- [ReactJS WEB para PWA/TWA](https://t.me/+rrDVbfmkg8I2OWQ5)
 
 ### PROGRAMAÇÃO BLOCKCHAIN
 - [EtherereumBR](https://t.me/etherbr)
@@ -213,8 +214,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### .NET
 - [.NET Brasil](https://telegram.me/dotnetbr)
 
-### REACT.JS
-- [React.Js](https://telegram.me/reactjs_br)
+### ReactJS
+- [ReactJS BR](https://telegram.me/reactjs_br)
+- [ReactJS WEB para PWA/TWA](https://t.me/+rrDVbfmkg8I2OWQ5)
 
 ### PLATAFORMAS
 - [FREESWITCH BRASIL](https://telegram.me/freeswitchbrasil)
