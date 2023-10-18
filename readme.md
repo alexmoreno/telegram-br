@@ -49,6 +49,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [JOBS](#jobs)
   - [OUTROS](#outros)
   - [IT MUNDO A FORA](#it-mundo-a-fora)
+  - [AI / MACHINE LEARNING](#ai--machine-learning)
 - [CANAIS](#canais)
 - [BOTS](#bots)
 
@@ -331,6 +332,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 Grupos pelo mundo para colaborar com dúvidas sobre imigração, processos, divulgação de vagas e etc.
 - [IT Dublin](https://t.me/joinchat/BbsQbw_FwHRlVLA-1MdnNg) 
 - [IT Alemanha](https://t.me/joinchat/BbsQbxGJuZams8m_LEM9vQ) 
+
+### AI / MACHINE LEARNING
+
+- [AI & ChatGPT Devs Brasil](https://t.me/aidevsbrasil)
+- [Pt-BR Data Science & Python](https://t.me/datasciencepython)
 
 ## CANAIS
 - [Cisco Redes](https://t.me/ciscoredes)
